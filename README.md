@@ -24,3 +24,4 @@ This is a FaceNet and MTCNN inference from [this Repository](https://github.com/
     python face_recognition.py
 
     ```
+MIT 
