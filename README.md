@@ -1,15 +1,11 @@
 ## **Quick Start**
 This is a FaceNet and MTCNN inference from [this Repository](https://github.com/timesler/facenet-pytorch).
-For more information, please read my series: https://viblo.asia/p/nhan-dien-khuon-mat-voi-mang-mtcnn-va-facenet-phan-2-bJzKmrVXZ9N
 1. Install:
-    
     ```bash
     # Clone Repo:
-    git clone https://github.com/pewdspie24/FaceNet-Infer.git
-    
+    https://github.com/TUANKIETPHANHUU/face_recognition.git
     # Install with Pip
     pip install -r requirements.txt
-
     ```
 1. Detection & Capturing:
     ```bash
@@ -18,7 +14,6 @@ For more information, please read my series: https://viblo.asia/p/nhan-dien-khuo
     
     # Face Capturing (Remember to input your name FIRST in console):
     python face_capture.py
-
     ```
 1. Create FaceList and Recognition:
     ```bash
